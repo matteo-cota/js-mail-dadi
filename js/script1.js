@@ -19,3 +19,4 @@ document.getElementById('rollDice').addEventListener('click', function() {
      document.getElementById('result').innerText = resultText;
 });
 
+
